@@ -32,8 +32,9 @@ In this repository, you'll find a diverse range of projects that explore cutting
 Contributions and feedback are always welcome! Whether you're a seasoned machine learning practitioner or just getting started, feel free to contribute your projects, ideas, or suggestions to this repository.
 
 ## Get in Touch
+find my linked in and twitter on my profile and lets get connected
 
-Have questions, suggestions, or just want to chat about machine learning and neural networks? Feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle).
+
 
 ## Acknowledgements
 
